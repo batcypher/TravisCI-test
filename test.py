@@ -10,7 +10,7 @@ class Tests(unittest.TestCase):
 
     def test_add2(self):
         calc = Calculator()
-        self.assertEqual(calc.addition(9,5),13)
+        self.assertEqual(calc.addition(9,5),14)
 
     def test_multi(self):
         calc = Calculator()
