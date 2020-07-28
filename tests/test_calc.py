@@ -16,9 +16,5 @@ class Tests(unittest.TestCase):
         calc = Calculator()
         self.assertEqual(calc.multiplication(4,5),20)
 
-    def test_str(self):
-        stud = Student("Faraz","CS")
-        self.assertEqual(stud.__str__(),"Faraz")
-
 if __name__=="__main__":
     unittest.main()
