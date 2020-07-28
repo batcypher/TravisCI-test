@@ -1,7 +1,7 @@
 import unittest
 
 from mypack.operation import Calculator
-from mypack.records import Student
+
 
 class Tests(unittest.TestCase):
     def test_add1(self):
