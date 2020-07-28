@@ -1,0 +1,11 @@
+setup.py
+mypack/__init__.py
+mypack.egg-info/PKG-INFO
+mypack.egg-info/SOURCES.txt
+mypack.egg-info/dependency_links.txt
+mypack.egg-info/requires.txt
+mypack.egg-info/top_level.txt
+mypack/operation/__init__.py
+mypack/operation/_calc.py
+mypack/records/__init__.py
+mypack/records/_student.py
